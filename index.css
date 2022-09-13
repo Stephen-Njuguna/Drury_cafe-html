@@ -1,0 +1,83 @@
+
+html {
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background-color: wheat;
+  
+  
+  }
+
+header{
+  display: flex;
+  padding: 20px;
+  justify-content: space-around;
+  background-color: darkslategrey;   
+}
+
+
+h2{
+text-align: center;
+}
+
+div.meals img{
+ 
+ 
+  box-shadow: 0 4px 8px o rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0, 0,0.19);
+  margin-bottom: 25px;
+  padding: 10px 20px;
+  box-sizing: border-box;
+  height: auto;
+  width: 300px;
+  margin: 0 0 0 0;
+
+ 
+}
+
+div.breakfast img{
+ 
+
+  box-shadow: 0 4px 8px o rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0, 0,0.19);
+  margin-bottom: 25px;
+  padding: 10px 20px;
+  box-sizing: border-box;
+  height: auto;
+  width: 300px;
+  margin: 0 0 0 0;
+}
+
+#drinks img{
+ 
+
+  box-shadow: 0 4px 8px o rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0, 0,0.19);
+  margin-bottom: 25px;
+  padding: 10px 20px;
+  box-sizing: border-box;
+  height: auto;
+  width: 300px;
+  margin: 0 0 0 0;
+
+
+}
+
+footer{
+background-color: rgb(148, 252, 242);
+display: flex;
+justify-content: space-around;
+padding: 10px;
+
+}
+
+footer a:hover{
+font-weight: 900;
+font-style: italic;
+color: rgb(255, 0, 250);
+}
+
+
+body{
+margin: 50px auto 50px auto;
+background:rgba(255,255,255, 0.8);
+width: 95%;
+
+}
